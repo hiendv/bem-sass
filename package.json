@@ -1,0 +1,15 @@
+{
+  "name": "@hiendv/bem-sass",
+  "version": "0.1.0",
+  "description": "BEM mixins for Sass",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiendv/bem-sass.git"
+  },
+  "author": "Hien Dao <hien.dv.neo@gmail.com>",
+  "license": "MIT"
+}
